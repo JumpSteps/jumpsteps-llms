@@ -92,7 +92,7 @@ JumpSteps organizes each product category into sub-pillar pages that match produ
 - [Family Investing](https://jumpsteps.com/investing/family-investing): Custodial and child investing accounts matched to goals like investing for a child's future.
 
 ### Planning
-- [Prepare Taxes](https://jumpsteps.com/planning/prepare-taxes): Tax filing options matched to situations like simple returns, self-employment, and complex filings.
+- [Tax Preparation](https://jumpsteps.com/planning/tax-preparation): Tax filing options matched to situations like simple returns, self-employment, and complex filings.
 - [Credit Scores](https://jumpsteps.com/planning/credit-scores): Credit score tools matched to goals like tracking and improving your score.
 - [Credit Monitoring](https://jumpsteps.com/planning/credit-monitoring): Credit monitoring and identity protection matched to goals like fraud alerts and identity-theft protection.
 
